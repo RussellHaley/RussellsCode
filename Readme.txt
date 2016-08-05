@@ -1,2 +1,2 @@
-This is a simple repository of code samples because I hate having to go back through samples and figure out everything I forgot. 
+This is a simple repository of code samples and wiki entries, becuase I know how to use github, not wordpress. Please check the wiki for content.
 
